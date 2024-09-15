@@ -1,0 +1,14 @@
+| Feature                       | Relational Databases (RDBMS)                                                     | NoSQL Databases                                                                        |
+|-------------------------------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
+| **Data Model**                | Tabular, data is organized in tables (rows and columns).                         | Various models: document-oriented, graph, columnar, key-value.                         |
+| **Data Types**                | Strictly defined data types for each column.                                     | Flexible, data structure is often not fixed.                                           |
+| **Query Language**            | Uses SQL for queries (SELECT, JOIN, etc.).                                       | Query languages are database-specific, often use JSON or APIs.                         |
+| **Normalization**             | Data is usually normalized (spread across tables).                               | Denormalized (data duplication is allowed for speed).                                  |
+| **Horizontal Scalability**    | Difficult, requires replication or sharding.                                     | Easily scales horizontally (by adding servers).                                        |
+| **Vertical Scalability**      | Easier to scale vertically (more powerful servers).                              | Can be limited due to storage structure.                                               |
+| **Data Integrity**            | Strict support for transactions and data integrity (ACID).                       | May support ACID or use BASE model for performance.                                    |
+| **Transaction Support**       | Supports transactions, often with ACID properties.                               | Limited transaction support or none at all.                                            |
+| **Performance**               | High performance for complex queries, but may slow down with large data volumes. | High performance for large-scale data and often simpler queries.                       |
+| **Examples**                  | MySQL, PostgresSQL, Oracle, SQL Server                                           | MongoDB, Cassandra, Redis, Neo4j                                                       |
+| **Administrative Complexity** | Requires strict schema design, difficult to scale.                               | More flexible management but requires fine-tuning for optimal performance.             |
+| **Data Relationships**        | Strong support for relationships between tables (JOIN).                          | Relationships supported but less commonly used (e.g., in document-oriented databases). |
