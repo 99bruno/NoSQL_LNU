@@ -19,6 +19,9 @@ This repository contains laboratory works for the NoSQL course at Ivan Franko Un
 - **[Hw_3/](Hw_3/)**: Contains the third laboratory work.
   - **[Connect_to_MongoDB.py](Hw_3/Connect_to_MongoDB.py)**: Python script to connect to MongoDB.
   - **[README.md](Hw_3/README.md)**: Instructions and details for the third lab.
+- **[Hw_4/](Hw_4/)**: Contains the fourth laboratory work.
+  - **[Create_and_load_data_to_MongoDB.ipynb](Hw_4/Create_and_load_data_to_MongoDB.ipynb)**: Ipynb file to work with MongoDB collections.
+  - **[README.md](Hw_4/README.md)**: Instructions and details for the fourth lab. 
 
 - **[.gitignore](.gitignore)**: Specifies files and directories to be ignored by Git.
 - **[README.md](README.md)**: This file, providing an overview of the repository.
