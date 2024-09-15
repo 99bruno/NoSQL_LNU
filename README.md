@@ -2,18 +2,27 @@
 
 This repository contains laboratory works for the NoSQL course at Ivan Franko University. The labs are designed to provide hands-on experience with NoSQL databases.
 
+## Table of Contents
+
+- [Repository Structure](#repository-structure)
+- [Getting Started](#getting-started)
+- [Running the Labs](#running-the-labs)
+- [MongoDB Connection](#mongodb-connection)
+- [License](#license)
+
 ## Repository Structure
 
 - **[Hw_2/](Hw_2/)**: Contains the second laboratory work.
+  - **[Trends_of_NoSQL.md](Hw_2%2FTrends_of_NoSQL.md)**: Trends of NoSQL databases.
   - **[SQL-NoSql_Comparison.md](Hw_2/SQL-NoSql_Comparison.md)**: Comparison between relational and NoSQL databases.
   - **[README.md](Hw_2/README.md)**: Instructions and details for the second lab.
-
 - **[Hw_3/](Hw_3/)**: Contains the third laboratory work.
-  - **[Hw_3.py](Hw_3/Connect_to_MongoDB.py)**: Python script for the third lab.
+  - **[Connect_to_MongoDB.py](Hw_3/Connect_to_MongoDB.py)**: Python script to connect to MongoDB.
   - **[README.md](Hw_3/README.md)**: Instructions and details for the third lab.
 
 - **[.gitignore](.gitignore)**: Specifies files and directories to be ignored by Git.
 - **[README.md](README.md)**: This file, providing an overview of the repository.
+- **[LICENSE](LICENSE)**: The license for the repository.
 - **[requirements.txt](requirements.txt)**: Contains the required Python packages for the labs.
 
 ## Getting Started
