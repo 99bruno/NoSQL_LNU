@@ -22,6 +22,9 @@ This repository contains laboratory works for the NoSQL course at Ivan Franko Un
 - **[Hw_4/](Hw_4/)**: Contains the fourth laboratory work.
   - **[Create_and_load_data_to_MongoDB.ipynb](Hw_4/Create_and_load_data_to_MongoDB.ipynb)**: Ipynb file to work with MongoDB collections.
   - **[README.md](Hw_4/README.md)**: Instructions and details for the fourth lab. 
+- **[Hw_5/](Hw_5/)**: Contains the fifth laboratory work.
+  - **[Creating_and_Editing_db.ipynb](Hw_5/2FCreating_and_Editing_db.ipynb)**: Ipynb file to create and edit a database.
+  - **[README.md](Hw_5/README.md)**: Instructions and details for the fifth lab.
 
 - **[.gitignore](.gitignore)**: Specifies files and directories to be ignored by Git.
 - **[README.md](README.md)**: This file, providing an overview of the repository.
