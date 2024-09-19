@@ -25,6 +25,9 @@ This repository contains laboratory works for the NoSQL course at Ivan Franko Un
 - **[Hw_5/](Hw_5/)**: Contains the fifth laboratory work.
   - **[Creating_and_Editing_db.ipynb](Hw_5/2FCreating_and_Editing_db.ipynb)**: Ipynb file to create and edit a database.
   - **[README.md](Hw_5/README.md)**: Instructions and details for the fifth lab.
+- **[Hw_6/](Hw_6/)**: Contains the sixth laboratory work.
+  - **[Working_with_data.ipynb](Hw_6/Working_with_data.ipynb)**: Ipynb file to work with data in MongoDB.
+  - **[README.md](Hw_6/README.md)**: Instructions and details for the sixth lab.
 
 - **[.gitignore](.gitignore)**: Specifies files and directories to be ignored by Git.
 - **[README.md](README.md)**: This file, providing an overview of the repository.
@@ -61,7 +64,7 @@ This repository contains laboratory works for the NoSQL course at Ivan Franko Un
 
 Each lab can be run independently. Navigate to the respective lab directory and execute the Python script.
 
-- ### For example, to run the first lab:
+- ### For example, to run the third lab:
 
   1. **Navigate to the third lab directory:**
       ```sh
