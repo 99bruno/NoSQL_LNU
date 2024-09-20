@@ -28,6 +28,9 @@ This repository contains laboratory works for the NoSQL course at Ivan Franko Un
 - **[Hw_6/](Hw_6/)**: Contains the sixth laboratory work.
   - **[Working_with_data.ipynb](Hw_6/Working_with_data.ipynb)**: Ipynb file to work with data in MongoDB.
   - **[README.md](Hw_6/README.md)**: Instructions and details for the sixth lab.
+- **[Hw_7/](Hw_7/)**: Contains the seventh laboratory work.
+  - **[Working_with_requests.ipynb](Hw_7/Working_with_requests.ipynb)**: Ipynb file to work with requests in MongoDB.
+  - **[README.md](Hw_7/README.md)**: Instructions and details for the seventh lab.
 
 - **[.gitignore](.gitignore)**: Specifies files and directories to be ignored by Git.
 - **[README.md](README.md)**: This file, providing an overview of the repository.
