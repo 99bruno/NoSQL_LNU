@@ -30,3 +30,5 @@ stack-data==0.6.3
 tornado==6.4.1
 traitlets==5.14.3
 wcwidth==0.2.13
+pytest==8.3.3
+neo4j~=5.25.0
